@@ -24,8 +24,8 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-102.284316, 21.857241],
-            },
+                "coordinates": [-102.284316, 21.857241]
+            }
         },
         {
             "type": "Feature",
@@ -34,8 +34,8 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-102.304231, 21.879318],
-            },
+                "coordinates": [-102.304231, 21.879318]
+            }
         },
         {
             "type": "Feature",
@@ -74,7 +74,7 @@
             },
             "geometry": {
                 "type": "MultiPoint",
-                "coordinates": [[-103, 23.9], [-101, 21.9]],
+                "coordinates": [[-103, 23.9], [-101, 21.9]]
             }
         }
     ]
